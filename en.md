@@ -1,8 +1,8 @@
 # Privacy Policy
 
-Last updated: July 1, 2026
+Last updated: July 2, 2026
 
-This Privacy Policy describes how TravelApp (the "App") collects, uses, and handles your information. Please read this policy carefully before using the App.
+This Privacy Policy describes how Swipe Trip (the "App") collects, uses, and handles your information. Please read this policy carefully before using the App.
 
 ---
 
@@ -15,7 +15,8 @@ This Privacy Policy describes how TravelApp (the "App") collects, uses, and hand
 - **Swipe evaluation data**: Your priority ratings for each travel destination
 
 ### 1-2. Information Collected Automatically
-- **App usage data**: Crash logs and error logs
+- **App usage data**: Screen transitions and feature usage (no personally identifiable information is included)
+- **Crash reports**: Device information and error details when the app crashes
 - **Device information**: OS type (iOS/Android) and app version
 
 ---
@@ -29,6 +30,7 @@ We use the information we collect solely for the following purposes:
 - Saving and syncing your travel planning data
 - Displaying destinations on a map
 - Improving the App and fixing bugs
+- Detecting and resolving crashes and issues
 
 ---
 
@@ -52,17 +54,35 @@ The App uses the following third-party services. Your data may be processed in a
 - **Storage location**: Servers managed by Supabase (data centers powered by AWS)
 - **Supabase Privacy Policy**: https://supabase.com/privacy
 
+### Sentry
+- **Data sent**: Device information, stack traces, and error details when a crash occurs
+- **Purpose**: Improving app stability and detecting/resolving issues
+- **No personally identifiable information is sent**
+- **Sentry Privacy Policy**: https://sentry.io/privacy/
+
 ---
 
-## 4. Data Retention
+## 4. Guest Users
+
+You can use the App as a guest without creating an account.
+
+- When using the App as a guest, an anonymous user ID is automatically assigned
+- Travel and destination data created as a guest is saved on our servers
+- You can register an account at any time to carry over your guest data
+- Guest accounts can be deleted via the "Delete Account" option in the Profile screen
+
+---
+
+## 5. Data Retention
 
 - **Account and travel data**: Retained for as long as your account exists
 - **Upon account deletion**: All data will be permanently deleted within 30 days of your deletion request
 - **Screenshot images**: Original images are not stored on our servers. After AI analysis is complete, images are not retained by Anthropic's servers either
+- **Crash reports**: Managed in accordance with Sentry's data retention policy
 
 ---
 
-## 5. Data Security
+## 6. Data Security
 
 - All communications are encrypted using HTTPS (TLS)
 - Passwords are stored in hashed form and are never stored in plain text
@@ -70,7 +90,7 @@ The App uses the following third-party services. Your data may be processed in a
 
 ---
 
-## 6. Your Rights
+## 7. Your Rights
 
 You have the following rights regarding your personal data. To exercise any of these rights, please contact us at the email address listed below. Please note that we may require some time to respond to your request.
 
@@ -80,19 +100,25 @@ You have the following rights regarding your personal data. To exercise any of t
 
 ---
 
-## 7. Children's Privacy
+## 8. Review Prompts
+
+When certain usage conditions are met (e.g., creating a trip or completing swipes), a dialog may appear asking you to leave a review on the App Store or Google Play. Leaving a review is entirely optional and is never required.
+
+---
+
+## 9. Children's Privacy
 
 The App is not intended for children under the age of 13, and we do not knowingly collect personal information from children under 13. If you believe a child under 13 has provided us with personal information, please contact us at the email address below.
 
 ---
 
-## 8. Changes to This Privacy Policy
+## 10. Changes to This Privacy Policy
 
 We will notify you of any changes to this policy through the App or on our website. For significant changes, we will also send a notification to your registered email address.
 
 ---
 
-## 9. Contact Us
+## 11. Contact Us
 
 For any privacy-related inquiries, please contact us at:
 
@@ -102,6 +128,6 @@ Please note that response times may vary depending on the nature of your inquiry
 
 ---
 
-## 10. Governing Law
+## 12. Governing Law
 
 This Privacy Policy shall be governed by and construed in accordance with the laws of Japan.
