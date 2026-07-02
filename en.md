@@ -122,7 +122,7 @@ We will notify you of any changes to this policy through the App or on our websi
 
 For any privacy-related inquiries, please contact us at:
 
-**Email**: koheitravel@gmail.com
+**Email**: swipetripplanner@gmail.com
 
 Please note that response times may vary depending on the nature of your inquiry.
 
